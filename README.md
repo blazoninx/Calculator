@@ -1,4 +1,4 @@
-# C Calculator
+# Simple Calculator
 
 ## Overview
 
