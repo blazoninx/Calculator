@@ -11,7 +11,7 @@ int main() {
     printf(" (__ *._ _ ._ | _ /  ` _.| _.. .| _.-+- _ ._.\n");
     printf(" .__)|[ | )[_)|(/,\\__.(_]|(_.(_||(_] | (_)[  \n");
     printf("           |                                 \n");
-    printf(" =================== Made By \e[4;35mSoumalya Naskar\e[0m.\n");
+    printf(" ========================= Made By \e[4;35mblazoninx\e[0m.\n");
     printf("\n // \e[0;90m\e[3mType 'help' and press enter to see all options.\e[0m //\n");
     // This is headline
     while (1) {
@@ -367,9 +367,6 @@ int main() {
             printf("	\e[3m~ Currently only performs basic arithmetic operations.\e[0m\n");
             printf("	\e[3m~ No support for more advanced calculations.\e[0m\n");
             printf("	\e[3m~ Can only handle two numbers at a time.\e[0m\n");
-            printf("\n [\e[1;91m#\e[0m] \e[45mSupport\e[0m :\n");
-            printf("	\e[3m~ For any questions or issues regarding the calculator, please contact the developer Soumalya Naskar.\e[0m\n");
-            printf("	\e[3m~ Just email <soumalya191@gmail.com> and you connect with the developer of this program.\e[0m\n");
             printf("\n [\e[1;91m#\e[0m] \e[45mConclusion\e[0m :\n");
             printf("	\e[3m~ This calculator is a simple and easy-to-use tool for basic arithmetic calculations.\e[0m\n");
             printf("	\e[3m~ Its basic features make it a good choice for simple arithmetic operations, but it may not be suitable for more advanced calculations.\e[0m\n");
@@ -383,7 +380,7 @@ int main() {
             printf(" (__ *._ _ ._ | _ /  ` _.| _.. .| _.-+- _ ._.\n");
             printf(" .__)|[ | )[_)|(/,\\__.(_]|(_.(_||(_] | (_)[  \n");
             printf("           |                                 \n");
-            printf(" =================== Made By \e[4;35mSoumalya Naskar\e[0m.\n");
+            printf(" ========================= Made By \e[4;35mblazoninx\e[0m.\n");
             // Reprint the headline after clear
         }
         else if (strcmp(option, "quit") == 0) {
