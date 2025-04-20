@@ -53,4 +53,4 @@ This calculator is a simple and easy-to-use tool for basic arithmetic calculatio
 
 ---
 
-Developed with ❤️ by Soumalya | [[Github](https://github.com/soumalya-geek)] |
+Developed with ❤️ by Soumalya | [[Github](https://github.com/blazoninx)] |
